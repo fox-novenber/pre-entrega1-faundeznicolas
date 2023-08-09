@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: #2196f3;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-item {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.navbar-end {
+    display: flex;
+    align-items: center;
+}
